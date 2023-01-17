@@ -1,0 +1,13 @@
+{
+  "name": "asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hello-world-npm": "*"
+  }
+}
